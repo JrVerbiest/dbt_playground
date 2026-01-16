@@ -12,3 +12,7 @@ logs/
 /venv/
 .user.yml
 .pgsql/
+dbt_internal_packages/
+dbt_playground-env
+/dbt_playground-env
+dbt_playground-env/
